@@ -1,0 +1,5 @@
+# Exclude the learn theme
+themes/learn/
+
+# Exclude the built website
+public/
